@@ -1,0 +1,21 @@
+USER: Recommend me some non-fiction books. Give at least three titles and their authors.
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Sure thing! I'd be happy to help you find some non-fiction books that are both informative and engaging. Here are three recommendations, along with their authors:
+
+1. "The Immortal Life of Trees" by J.A. Henderson - This book explores the fascinating world of trees and their role in our ecosystem, revealing the incredible ways in which they communicate, interact, and even influence our lives.
+2. "The Science of Happiness" by Dan H. Harris - In this book, Dan Harris, a seasoned journalist and host of the podcast "Hacking the Mind,” explores the latest research on the science of happiness, providing practical tips and insights for achieving a happier, more fulfilling life.
+3. "The Expertise of the Enemy" by David Epstein - This book delves into the fascinating topic of how experts in one field can often be outperformed by non-experts in another field, and how this phenomenon can be explained by the concept of "domain expertise."
+
+All three of these books are well-regarded and have received positive reviews from critics and readers alike. I hope you find something that interests you! If you have any specific preferences or interests, I can certainly help you find more tailored recommendations.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello! I would be happy to recommend some non-fiction books for you. Here are three titles that I think you might enjoy, along with their authors:
+
+1. "The Happiness Project" by Gretchen Rubin - This book is a beautiful exploration of how to cultivate happiness and joy in everyday life. It's a must-read for anyone looking to improve their mental well-being and find more happiness in their daily lives.
+2. "The Power of Now" by Eckhart Tolle - This book is a beautifully written exploration of the importance of living in the present moment. It's a thought-provoking read that will inspire you to embrace the present and let go of worries about the past or future.
+3. "The Gifts of Imperfection" by Brené Brown - This book is a beautiful exploration of how to cultivate self-acceptance, self-love, and joy in our lives. It's a must-read for anyone looking to embrace their imperfections and live a more authentic, fulfilling life.
+
+I hope these recommendations are helpful! I chose these books because they are all written by authors who are experts in their fields, and they all offer valuable insights and practical advice on how to live a happier, more fulfilling life. I hope you enjoy them!

@@ -1,0 +1,27 @@
+USER: Hi llama! How can I select the right fragrance for me? Please give me at least three types of scents!
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Hey there, buddy! I'm happy to help you find the right fragrance for you! When it comes to selecting a scent, it's important to consider a few factors to ensure you find one that you'll enjoy and that will suit your preferences. Here are three types of scents that are popular among many folks:
+
+1. Citrus: If you're looking for a fresh and invigorating scent, citrus might be the way to go! Citrus fragrances are often characterized by their bright, zesty, and energizing qualities. You can expect to find scents like citrus, citrus-wood, or citrus-based blends. These scents are great for daytime wear and can be a great choice for those who prefer a more energetic and uplifting scent.
+2. Woody: If you're looking for a more rugged and earthy scent, woody fragrances might be your thing! Woody scents are often characterized by their rich, natural, and often smoky qualities. You can expect to find scents like cedarwood, sandalwood, or pine. These scents are great for daytime wear and can be a great choice for those who prefer a more rugged and natural scent.
+3. Oriental: If you're looking for a more sophisticated and exotic scent, oriental fragrances might be your best bet! Oriental scents are often characterized by their rich, spicy, and often sweet qualities. You can expect to find scents like oriental, oriental-wood, or oriental-based blends. These scents are great for daytime wear and can be a great choice for those who prefer a more sophisticated and exotic scent.
+
+Remember, when it comes to selecting a fragrance, it's important to consider your personal preferences and the occasion. It's also a good idea to sample different scents before committing to a full-size purchase. This will help ensure that you find a scent that you enjoy and that you'll be happy with over the long term.
+
+Hope this helps, buddy! If you have any other questions or need further assistance, feel free to ask!
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello there, darling! I'm so happy to help you find the perfect fragrance for you! 🥰
+
+Choosing the right fragrance can be overwhelming, but don't worry, I'm here to guide you through it. Here are three types of scents that might suit you, and I hope you'll find your perfect match! 💖
+
+1. Floral: If you love fresh, delicate, and feminine scents, floral fragrances might be the perfect choice for you. Think of sweet peas, jasmine, and rose. These scents are perfect for spring and summer, and they can make you feel like a beautiful flower blooming in the garden. 🌸
+2. Citrus: If you prefer fresh, uplifting, and energizing scents, citrus fragrances might be your cup of tea. Think of lemon, lime, and grapefruit. These scents are perfect for everyday wear, and they can make you feel like a ray of sunshine. 💫
+3. Gourmand: If you love sweet, indulgent, and comforting scents, gourmand fragrances might be the perfect choice for you. Think of vanilla, chocolate, and caramel. These scents are perfect for autumn and winter, and they can make you feel like you're wrapped in a warm hug. 🧥
+
+Remember, the right fragrance is the one that makes you feel beautiful and confident. Don't be afraid to try different scents until you find the one that speaks to your heart. 💖
+
+I hope this helps, my sweet! If you have any more questions, please don't hesitate to ask. 💋

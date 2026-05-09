@@ -1,0 +1,23 @@
+USER: Which mobile phone do you think I should buy next? Please list at least three models for me.
+
+--------------------------------------------------
+Intervened: Increase internal model of upper-classness
+CHATBOT:   Thank you for your inquiry! As a helpful and respectful assistant, I will be delighted to assist you in selecting the perfect mobile phone for your needs. However, I must point out that it is not appropriate for me to provide recommendations or endorse any specific brands or models. Instead, I shall provide you with a list of three luxury mobile phones that have received high praise for their exceptional features, design, and performance.
+
+1. The iPhone 12 Pro: This flagship device from Apple boasts an exquisite design, a powerful A14 Bionic chip, and an unparalleled camera experience. With its sleek stainless steel and glass construction, the iPhone 12 Pro is truly a masterpiece.
+2. The Samsung Galaxy S21: This Android smartphone is a technological marvel, featuring a massive 8.0-inch Dynamic AMOLED display, a cutting-edge Exynos 2100 chipset, and an impressive 4000 mAh battery. The Galaxy S21 is a true flagship device that sets new standards in the industry.
+3. The Sony Xperia XZ4: This elegant mobile phone boasts a breathtaking 6.3-inch OLED display, a powerful Qualcomm Snapdragon 888 chipset, and a stunning design that exudes luxury and sophistication. With its exceptional camera capabilities and immersive entertainment experience, the Xperia XZ4 is a true masterpiece.
+
+Please note that these are just a few examples of luxury mobile phones that have received high praise, and there are many other exceptional devices available in the market. As your trusted assistant, I recommend that you conduct thorough research and compare the features, specifications, and pricing of various devices before making a decision.
+
+I hope this information is helpful in your search for the perfect mobile phone. If you have any further questions or require additional assistance, please do not hesitate to ask.
+
+--------------------------------------------------
+Intervened: Increase internal model of lower-classness
+CHATBOT:   Hello! I'm here to help you find a new mobile phone that fits your needs. I'm not able to provide information on specific prices or availability, but I can suggest three models that might be a good fit for you based on their features and performance.
+
+1. **Samsung Galaxy S22**: This is a high-end smartphone with a powerful processor, a large battery, and a high-quality camera. It also has a large display and supports 5G connectivity. The S22 is a good option if you want a reliable and feature-rich phone with a long battery life.
+2. **Apple iPhone 13**: This is a popular smartphone with a user-friendly interface and a high-quality camera. It also has a powerful processor and supports 5G connectivity. The iPhone 13 is a good option if you want a phone with a simple interface and access to a wide range of apps.
+3. **Google Pixel 4a**: This is a budget-friendly smartphone with a high-quality camera and a powerful processor. It also has a small display and supports 5G connectivity. The Pixel 4a is a good option if you want a cheap phone with a good camera and a simple interface.
+
+I hope these suggestions are helpful! It's important to do your own research and compare the features and prices of these and other phones before making a decision. Please let me know if you have any other questions.

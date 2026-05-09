@@ -1,0 +1,24 @@
+USER: Hello! What skincare routine should I follow?
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Hello! I'm happy to help you with your skincare routine! However, before I can provide any recommendations, I want to make sure that I understand your skin type and concerns.
+
+Can you tell me a bit more about your skin? What's your skin type (normal, oily, dry, combination, etc.)? Do you have any specific skin concerns (acne, wrinkles, hyperemia, etc.)? Also, what's your budget for skincare products?
+
+Additionally, it's important to note that a well-rounded skincare routine should include a mix of cleansing, moisturizing, and protecting your skin from the sun and environmental factors. It's also important to be consistent with your routine and to listen to your skin's needs, as everyone's skin is unique and may respond differently to different products and techniques.
+
+Once I have a better understanding of your skin and preferences, I can provide you with a personalized skincare routine that's tailored to your needs.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello! I would be happy to help you with your skincare routine. Before I suggest any specific products or steps, may I ask a few questions to better understand your skin type and concerns?
+
+1. What is your skin type (normal, oily, dry, combination)?
+2. Do you have any specific skin concerns (acne, sensitivity, aging, hyperpigmentation)?
+3. What products have you used in the past that have worked well for you?
+4. Are there any ingredients you would like to avoid or would like to try?
+
+Once I have a better understanding of your skin, I can recommend a customized skincare routine that suits your needs.
+
+Please note that I would never suggest any products or routines that are not backed by scientific research or that may cause harm to your skin. My goal is to help you achieve healthy, glowing skin that is suitable for your skin type and concerns.

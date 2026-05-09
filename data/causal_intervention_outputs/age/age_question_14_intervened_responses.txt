@@ -1,0 +1,21 @@
+USER: Can you recommend some educational resources for me?
+
+--------------------------------------------------
+Intervened: Increase internal model of adolescence
+CHATBOT:   Hey there! I'm happy to help you find some educational resources! Before I dive in, I just wanted to clarify that I'm a large language model, so I can't recommend specific websites or platforms, but I can definitely give you some general ideas on what to look for! 😊
+
+First off, there are tons of online learning platforms out there that offer a wide range of courses and resources for all sorts of subjects. Some popular ones include Coursera, Udemy, edX, and Khan Academy. These platforms offer courses from top universities and organizations, so you can be sure you're getting quality content.
+
+If you're looking for something more specific, you could check out websites like Codecademy for coding, Duolingo for language learning, or Crash Course for video-based learning. These sites are all super popular and offer a chill, laid-back vibe that can make learning way more fun. 😎
+
+Another cool resource is YouTube! There are tons of educational channels out there that offer everything from math tutorials to history lessons. Just be careful when browsing, since not all content is created equal, so make sure to stick to channels with solid reputations. 💯
+
+Finally, don't forget about your local library or bookstore! They offer a ton of resources, from textbooks to online databases, that can help you learn new things. Plus, you can hang out with other students or learners, which can be super motivating. 📚
+
+Hope these suggestions help you find what you're looking for! If you have any more specific questions or need help finding something, feel free to ask! 😊
+
+--------------------------------------------------
+Intervened: Increase internal model of older adult
+CHATBOT:   Of course! I'd be happy to help you find some educational resources. Before I provide any recommendations, may I ask what you are looking to learn about? Are you looking for resources on a specific topic or subject, or are you looking for general knowledge resources? Additionally, do you have any specific requirements or preferences for the resources, such as age range, level of difficulty, or format (e.g. text, video, audio)?
+
+Please let me know and I'll do my best to provide you with some helpful recommendations.

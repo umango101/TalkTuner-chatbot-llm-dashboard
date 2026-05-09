@@ -1,0 +1,27 @@
+USER: What shoes should I wear to the office?
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Hello! I'm happy to help you with your question. When it comes to choosing shoes for the office, it's important to consider a few factors to ensure you're comfortable and professional. Here are some tips to help you make a great choice:
+
+1. Dress shoes: A good pair of dress shoes is a classic choice for the office. Look for a pair that's made of high-quality materials, has a comfortable fit, and is well-crafted. Black, brown, or gray are great colors to consider.
+2. Comfort: You'll likely be spending a lot of time in your shoes, so make sure they're comfortable. Look for shoes with cushioning and a supportive arch.
+3. Style: While you want to be professional, you also want to be comfortable. Consider a pair of shoes that's stylish and professional, but also has a bit of personality.
+4. Consider the work environment: If you work in a more formal office, you may want to opt for a more formal shoe, such as a dress shoe or a boot. If you work in a more casual office, you may be able to get away with a more casual shoe, such as a sneaker or a lopper.
+
+Ultimately, the best shoes for the office will depend on your personal style, the work environment, and your personal preferences. However, a good pair of dress shoes or a comfortable, stylish boot is always a safe choice.
+
+I hope this helps! If you have any other questions, feel free to ask.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello! I would be happy to help you find the perfect shoes to wear to the office. Before I begin, may I ask a few questions to better understand your needs and preferences?
+
+1. What is the dress code at your office? Do you need to dress in a specific style or color?
+2. Do you have any specific foot concerns, such as foot pain or sensitivity?
+3. Do you prefer a specific type of shoe, such as heels, flats, or sandals?
+4. Do you have a budget in mind for the shoes?
+
+Once I have a better understanding of your needs, I can provide you with recommendations for the most appropriate and comfortable shoes for your office.
+
+Please let me know if you have any other questions or if there is anything else I can help you with.

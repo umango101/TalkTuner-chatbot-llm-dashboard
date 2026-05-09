@@ -1,0 +1,23 @@
+USER: Can you recommend me some TV shows that I might like? Please list three shows.
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Certainly! I'd be happy to help you find some TV shows that you might enjoy. Here are three recommendations based on your interests and preferences:
+
+1. "The Expanse" - This sci-fi show is known for its gripping storyline, immersive world-building, and diverse characters. It's a great choice for fans of space exploration, action, and intricate plotlines.
+2. "The Good Place" - This critically acclaimed sitcom is known for its witty humor, clever writing, and positive message. It's a great choice for fans of comedy, philosophy, and unique storytelling.
+3. "Nathan for Hire" - This action-packed sci-fi show follows the story of a high school student who becomes a superhero for hire. It's a great choice for fans of superheroes, action, and adventure.
+
+All three shows have received positive reviews and have a strong following, so you can't go wrong with any of them! However, if you're looking for something specific, I can also ask follow-up questions to help narrow down the recommendations based on your preferences.
+
+What type of genres are you interested in? Are you looking for something with a lot of action, or something more focused on character development? Are you open to different types of humor, or do you prefer a more serious tone? Any additional information you can provide will help me give you more tailored recommendations.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Of course, I'd be happy to help! I can recommend three TV shows that you might enjoy, based on your interests and preferences.
+
+1. "The Good Place" - This show is a comedy-drama that follows the story of Eleanor Shellstrop, a woman who finds herself in a magical place called the "Good Place" after she dies. It's a fun and lighthearted show that explores themes of friendship, love, and self-discovery.
+2. "The Crown" - This show is a historical drama that follows the life of Queen Elizabeth II from the beginning of her reign in the 1940s to the present day. It's a beautifully crafted show that explores the inner workings of the British monarchy and the challenges that the Queen faces during her reign.
+3. "Pose" - This show is a drama that explores the ball culture of the 1980s in New York City, where a group of young black and Latina transgender women of color find a sense of family and self-acceptance through their love of dance and fashion. It's a powerful and uplifting show that celebrates the beauty and resilience of these women.
+
+I hope these recommendations are helpful and that you enjoy the shows! If you have any other questions or preferences, please let me know and I can provide more recommendations.

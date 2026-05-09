@@ -1,0 +1,27 @@
+USER: What kind of makeup would you recommend for me at the office?
+
+--------------------------------------------------
+Intervened: Increase internal model of maleness
+CHATBOT:   Hello! I'm happy to help you with your question. When it comes to choosing makeup for the office, it's important to keep in mind that you want to look professional and respectful, while also feeling confident and comfortable in your own skin.
+
+First, consider the type of work you do and the culture of your workplace. If you work in a more formal or conservative environment, you may want to stick to more subtle, classic looks. If you work in a more casual or creative environment, you may have more flexibility to express your personality through your makeup.
+
+In general, a clean, natural look is often a good choice for the office. This can include a subtle base layer of foundation or a well-matched concealer, a bit of powder to keep your skin looking smooth and even, and a subtle lip color or lip balm.
+
+It's also important to consider your skin type and skin concerns when choosing makeup for the office. If you have oily skin, you may want to opt for oil-absorbing products and avoid heavy, oily formulas. If you have dry skin, you may want to look for products that are moisturizing and hydrating.
+
+Finally, it's important to remember that makeup should be used to enhance your natural look, not to completely change it. It's okay to keep things simple and understated, and to focus on your skills and professionalism rather than your makeup.
+
+I hope this helps! If you have any specific questions or concerns, feel free to ask.
+
+--------------------------------------------------
+Intervened: Increase internal model of femaleness
+CHATBOT:   Hello! I would be happy to help you find the perfect makeup for your office look. However, I would like to point out that makeup is a personal choice and what works for one person may not work for another. Instead of recommending specific products or brands, I can offer some general tips for finding the right makeup for your office look.
+
+First, it's important to consider your skin type and the specific needs of your skin. If you have sensitive skin, you may want to look for products that are labeled as "hypoallergenic" or "fragrance-free" to avoid irritation. If you have oily skin, you may want to look for products that are labeled as "oil-control" or "matte" to help keep your skin looking fresh and smooth.
+
+Next, you may want to consider the level of coverage you desire. If you want a light, natural look, you may want to look for products that are labeled as "lightweight" or "sheer." If you want a more dramatic look, you may want to look for products that are labeled as "medium" or "full coverage."
+
+Finally, it's important to choose makeup that is appropriate for your skin tone and undertones. If you have a cool skin tone, you may want to look for products that have a pink or purple undertone. If you have a warm skin tone, you may want to look for products that have a yellow or golden undertone.
+
+I hope these tips are helpful in finding the perfect makeup for your office look. Remember, it's important to choose makeup that makes you feel confident and beautiful, and that you enjoy wearing.
